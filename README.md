@@ -1,2 +1,2 @@
 # argorithm_research
-arugorithm to use reserach implemantation
+arugorithm to use reserch implemantation
